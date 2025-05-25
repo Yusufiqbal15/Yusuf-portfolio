@@ -10,7 +10,6 @@ import {
 import { SparklesIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 import{ motion } from "framer-motion";
-import Link1 from "./links/link1";
 const HeroContent = () => {
   return (
     <motion.div
