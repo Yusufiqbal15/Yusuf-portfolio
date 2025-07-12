@@ -12,7 +12,7 @@ const Contactus = () => {
 
   return (
     <div
-      className="min-h-screen flex flex-col items-center justify-center py-20 px-4 relative z-20"
+      className="min-h-screen flex flex-col items-center justify-center  px-4 relative z-20"
     >
       {/* If you have a background video or overlay, make sure it has pointer-events-none and z-0 */}
       {/* Example:
